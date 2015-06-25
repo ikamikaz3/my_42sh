@@ -1,4 +1,4 @@
-#---------------------- my_42sh --------------------------------------
+#---------------------- my_42sh ---------------------------
 |This my Shell, it's a project for the Unix System module at Epitech!|
 |								     |
 |Was written by : Claire Gizard					     |
@@ -8,6 +8,5 @@
 |		 Thomas Billot					     |
 |								     |
 | Thanks for all for making such a great project		     |
-|								     |
-|								     |
+| 	     							     |
 #---------------------------------------------------------------------
