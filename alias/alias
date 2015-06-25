@@ -1,0 +1,7 @@
+ll=ls -l
+la=ls -a
+ne=emacs -nw
+c=clear
+lla=ls
+lls=ls
+ne=caca
